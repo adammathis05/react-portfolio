@@ -7,7 +7,7 @@ import Grid from "@mui/material/Grid";
 import Box from "@mui/material/Box";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
-import tuktuk from "../assets/images/tuktuk.jpg"
+import tuktuk from "../../public/tuktuk.jpg"
 import Layout from "../components/layouts/Layout";
 
 export default function Contact() {
